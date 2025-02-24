@@ -52,6 +52,6 @@ module TinyFPGA_B (
   assign pin23 =     1'bz;
   assign pin24 =     1'bz;
 
-// Añado comentario al .v
+// Añado comentario al .v 2222
 
 endmodule
