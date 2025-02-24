@@ -1,6 +1,6 @@
 [Project]
 ProjectVersion=2.0
-Version=Lattice Semiconductor Corporation iCEcube - Release: 2017.01.27914 - Build Date: Jan 12 2017 19:10:45
+Version=Lattice Semiconductor Corporation iCEcube - Release: 2020.12.27943 - Build Date: Dec 9 2020 18:31:09
 ProjectName=template
 Vendor=SiliconBlue
 Synthesis=synplify
@@ -43,13 +43,13 @@ DeviceFamily=iCE40
 Device=LP8K
 DevicePackage=CM81
 DevicePower=
-NetlistFile=template_Implmnt/template.edf
+NetlistFile=
 AdditionalEDIFFile=
 IPEDIFFile=
 DesignLib=template_Implmnt/sbt/netlist/oadb-TinyFPGA_B
-DesignView=_rt
+DesignView=
 DesignCell=TinyFPGA_B
-SynthesisSDCFile=template_Implmnt/template.scf
+SynthesisSDCFile=C:/Users/raul.lora/Documents/repoPrueba/TinyFPGA-BX/icecube2_template/template_Implmnt/template.scf
 UserPinConstraintFile=
 UserSDCFile=constraints/clk.sdc
 PhysicalConstraintFile=constraints/pins.pcf
